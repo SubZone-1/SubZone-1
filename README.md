@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @SubZone-1
-- 👀 I’m interested in chinese drill
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on quatrocator.com
-- 📫 How to reach me: for now, u don't lmao
+- 👋 Hi, I’m Daniel
+- 📫 How to reach me: danielmogildea@outlook.com
 
 <!---
 SubZone-1/SubZone-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
